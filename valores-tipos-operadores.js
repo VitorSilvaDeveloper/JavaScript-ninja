@@ -5,4 +5,4 @@ var d = 7
 
 var resultado = (a + b + c + d) / 4
 
-console.log(resultado)
+console.log("Sua nota é\n", resultado)
